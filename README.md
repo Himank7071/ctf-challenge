@@ -3,7 +3,7 @@
 We intercepted this image from a suspicious server. Our analyst says it's "just a PNG" — but something feels off. Can you prove them wrong?
 
 `difficulty: Medium` <br>
-`author: EH4X`
+`author: himank`
 
 ## Flag
 ```
